@@ -1,0 +1,8 @@
+{
+  "name": "whatsapp-audio-decoder",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "micro": "^9.3.4"
+  }
+}
