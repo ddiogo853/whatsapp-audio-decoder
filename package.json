@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-audio-decoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.3.4"
+  }
+}
